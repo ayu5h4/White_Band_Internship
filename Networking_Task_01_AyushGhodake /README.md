@@ -12,7 +12,7 @@ The following network details were collected from the system terminal:
 
 - **Hostname (Device Name):** `kali`
 - **IPv4 Address:** `192.168.162.128`
-- **MAC Address:** `00:0C:29:75:11:77`
+- **MAC Address:** `aa:ss:dd:ff:gg:90`
 - **Default Gateway:** `192.168.162.2`
 - **DNS Server:** `192.168.162.2`
 
@@ -73,7 +73,7 @@ The diagram below illustrates how the local device communicates with external ne
                 ▼
          [ Kali Linux System ]
       IP Address: 192.168.162.128
-      MAC Address: 00:0C:29:75:11:77
+      MAC Address: aa:ss:dd:ff:gg:90
 ````
 ---
 
