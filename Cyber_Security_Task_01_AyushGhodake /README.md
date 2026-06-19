@@ -78,3 +78,18 @@ A thorough security configuration assessment was performed across three major on
 ---
 
 ## 🎨 Part E: Cyber Security Awareness Poster
+
+![Poster](./Screenshots/Professional-Cybersecurity-Awareness-Poster.png)
+
+📝 Part F: Security Reflection Report
+1. Cybersecurity Risks Identified in Personal Habits
+Reviewing my personal digital habits helped me identify several critical security gaps. The most prominent vulnerability was reliance on SMS-based multi-factor authentication across older web profiles. While SMS is better than no MFA at all, it leaves accounts vulnerable to SIM-swapping attacks and intercept vulnerabilities. Additionally, I noticed that my local browser cache held multiple persistent session cookies across unauthorized networks. This creates a risk of session hijacking if my endpoint is ever compromised by malware. Finally, I realized I sometimes defer system security patches on auxiliary testing machines to avoid interrupting active tasks. This leaves an open window for exploit frameworks to target known vulnerabilities.
+
+2. Immediate Security Improvements Implementation Plan
+To mitigate these risks, I will immediately move all active online accounts from SMS-based MFA to a dedicated, encrypted Time-Based One-Time Password (TOTP) app environment. I will also clear all cached cookies and saved browser passwords, moving them into an offline, encrypted password manager database protected by master passphrase keys. On the operating system level, I am configuring automated cron maintenance tasks on my Linux virtual machine environments to pull down stability and repository security upgrades every evening. This ensures that patches are applied without manual intervention.
+
+3. The Structural Importance of Cybersecurity in Today's World
+In our modern, hyper-connected world, cybersecurity has evolved from a niche technical requirement into a fundamental pillar of public safety, economic stability, and national security. Today, critical infrastructure—including electrical power grids, municipal water treatment facilities, financial networks, and hospital emergency operations—relies entirely on networked digital systems.
+
+A successful cyberattack is no longer just a digital nuisance; it can cause severe real-world disruptions, financial losses, and compromise public health. As data generation grows exponentially, protecting digital information responsibly is essential to maintaining user trust, defending individual privacy rights, and securing the digital landscape for everyone.
+
