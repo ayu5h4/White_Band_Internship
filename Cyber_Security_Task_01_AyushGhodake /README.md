@@ -17,7 +17,10 @@ A complete configuration check was conducted on the host system to determine the
 * **Firewall Layer Enabled?** `Yes` (Uncomplicated Firewall `ufw` status is currently active)
 
 ### Verification Screenshots
-![Device Security Parameters Assessment](./screenshots/device_security_check.png)
+
+![Device Security Parameters Assessment](./Screenshots/Device-Security-Parameters-Assessment-1.png)
+
+![Device Security Parameters Assessment](./Screenshots/Device-Security-Parameters-Assessment-2.png)
 
 ---
 
